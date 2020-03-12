@@ -1,0 +1,168 @@
+#EXTM3U
+#EXTINF:-1,AXN-2
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1,SONY
+http://210.210.155.66/h/h143/02.m3u8
+#EXTINF:-1,AXN
+http://210.210.155.66/h/h141/01.m3u8
+#EXTINF:-1,Sony One
+http://210.210.155.66/h/h143/01.m3u8
+#EXTINF:-1,Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
+#EXTINF:-1,NHK World
+http://210.210.155.66/h/h23/01.m3u8
+#EXTINF:-1,Egg Network
+http://210.210.155.66/h/h22/01.m3u8
+#EXTINF:-1,Channel Newsasia
+http://210.210.155.66/h/h29/01.m3u8
+#EXTINF:-1,Sony Gem
+http://210.210.155.66/h/h19/02.m3u8
+#EXTINF:-1,NHK World
+http://210.210.155.66/h/h23/02.m3u8
+#EXTINF:-1,Egg Network
+http://210.210.155.66/h/h22/02.m3u8
+#EXTINF:-1,Channel Newsasia
+http://210.210.155.66/h/h29/02.m3u8
+#EXTINF:-1,TV5 Monde Style
+http://210.210.155.66/h/h01/01.m3u8
+#EXTINF:-1,TV5 Monde Style
+http://210.210.155.66/h/h01/02.m3u8
+#EXTINF:-1,MNC Lifestyle
+http://210.210.155.66/h/h28/01.m3u8
+#EXTINF:-1,MNC Lifestyle
+http://210.210.155.66/h/h28/02.m3u8
+#EXTINF:-1,Metro
+http://210.210.155.66/h/h12/01.m3u8
+#EXTINF:-1,Metro
+http://210.210.155.66/h/h12/02.m3u8
+#EXTINF:-1,Satellite TV
+http://210.210.155.66/h/h08/01.m3u8
+#EXTINF:-1,Satellite TV
+http://210.210.155.66/h/h08/02.m3u8
+#EXTINF:-1,Kix
+http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:-1,Kix
+http://210.210.155.66/h/h07/02.m3u8
+#EXTINF:-1,Fight Sports
+http://210.210.155.66/h/h05/01.m3u8
+#EXTINF:-1,Fight Sports
+http://210.210.155.66/h/h05/02.m3u8
+#EXTINF:-1,Bloomberg
+http://210.210.155.66/h/h04/01.m3u8
+#EXTINF:-1,Bloomberg
+http://210.210.155.66/h/h04/02.m3u8
+#EXTINF:-1,Bloomberg
+http://210.210.155.66/h/h03/01.m3u8
+#EXTINF:-1,Hits
+http://210.210.155.66/h/h37/01.m3u8
+#EXTINF:-1,FOX life
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/02.m3u8
+#EXTINF:-1,FOX life
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1,thrill
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1,thrill
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/02.m3u8
+#EXTINF:-1,FOX ACTION MOVIES
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
+#EXTINF:-1,FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+#EXTINF:-1,FOX FAMILY MOVIES
+http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/01.m3u8
+#EXTINF:-1,SBSIN
+http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8
+#EXTINF:-1,SONY ONE
+http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/index.m3u8
+#EXTINF:-1,K-DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1,SBSIN
+http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/02.m3u8
+#EXTINF:-1,K-DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/02.m3u8
+#EXTINF:-1,SONY ONE
+http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/02.m3u8
+#EXTINF:-1,FOX ACTION MOVIES
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/02.m3u8
+#EXTINF:-1,FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/02.m3u8
+#EXTINF:-1,天映頻道
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1,AYSAR Fight Sports BACKUP
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1,AYSAR CGTN DOCUMENTARY
+http://210.210.155.35/session/ffc58ebe-0755-11e9-9443-c81f66f89318/qwr9ew/s/s20/02.m3u8
+#EXTINF:-1,ALJAZEERA 1
+http://210.210.155.35/session/fa0aa530-7b79-11e8-b63d-c81f66f89318/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1,ALQURANULKARIM
+http://210.210.155.35/session/dc5c3b00-7b7b-11e8-bf09-b82a72d63267/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1,ALSANAT
+http://210.210.155.35/session/8f8cb6f6-7b7b-11e8-a629-b82a72d63267/x6bnqe/s/s27/01.m3u8
+#EXTINF:-1,CCTV4
+http://210.210.155.35/session/54f1bc0e-7b7a-11e8-a6e4-b82a72d63267/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1,CGTN DOCUMENTARY
+http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1,DW TV
+http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1,EURONEWS
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
+#EXTINF:-1,FRANCE24
+http://210.210.155.35/session/cb44f5f6-7b7a-11e8-8e98-c81f66f89318/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1,PHOENIX
+http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
+#EXTINF:-1,RT
+http://210.210.155.35/session/efcc94f6-7b7a-11e8-afd3-b82a72d63267/qwr9ew/s/s23/01.m3u8
+#EXTINF:-1,TBN
+http://210.210.155.35/session/664e7ce8-7b7b-11e8-a6e4-b82a72d63267/x6bnqe/s/s39/01.m3u8
+#EXTINF:-1,CHANNEL NEWS ASIA
+http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
+#EXTINF:-1,TVE
+http://210.210.155.35/session/38ee33d8-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s25/01.m3u8
+#EXTINF:-1,天映頻道
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1,ZEE BISOKOP
+http://210.210.155.35/session/dd44cb1a-3b40-11e9-a903-92a2ae097d68/qwr9ew/s/s32/index1.m3u8
+#EXTINF:-1,E
+http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/01.m3u8
+#EXTINF:-1,MetroTV
+http://210.210.155.66/h/h12/02.m3u8
+#EXTINF:-1,(ONLINE) ANTV
+http://210.210.155.35/session/7fd33922-46b1-11e9-b863-c81f66f89318/qwr9ew/s/s102/01.m3u8
+#EXTINF:-1,(ONLINE) RTV
+http://210.210.155.35/session/7a9be4ec-f443-11e8-a629-b82a72d63267/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1,(ONLINE) Elshinta
+http://210.210.155.35/session/a3a86eca-319a-11e9-ba6a-b82a72d63267/qwr9ew/s/s10/02.m3u8
+#EXTINF:-1,(ONLINE) Fight sport
+http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8
+#EXTINF:-1,axn
+http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+#EXTINF:-1,CINEMA INDONESIA
+http://210.210.155.35:80/session/670515de-73b9-11e9-8f02-846587341add/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1,AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1,Hits (Opt-1)
+http://210.210.155.35:80/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8
+#EXTINF:-1,HITS HD
+http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
+#EXTINF:-1,KOMPAS TV
+http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1,CINEMA WORLD SD
+http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
+#EXTINF:-1,Channel NewsAsia auto
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720p"
+https://cdnmdc1.useetv.com/joss/15/net/chunklist_w908491927_b1344100_sleng.m3u8?enc=sPzlB7oRA6afdpTy0BDo3Q&exp=1583629645
